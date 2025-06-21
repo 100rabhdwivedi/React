@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@font-face {
+  font-family:'Cirvia' ;
+  src: url('/fonts/Cirvia.ttf');
+}
+
+@font-face {
+  font-family:'Gilroy' ;
+  src: url('/fonts/Gilroy.otf');
+}
+
+.font-one{
+  font-family:'Cirvia';
+}
+
+.font-two{
+  font-family: 'Gilroy';
+}
