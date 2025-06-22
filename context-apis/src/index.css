@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Aonic';
+    src: url('/fonts/Aonic.ttf');
+}
+@font-face {
+    font-family:'Vanic' ;
+    src: url('/fonts/VainCapital.ttf');
+}
+.font-one{
+    font-family: 'Aonic';
+}
+.font-two{
+    font-family: 'Vanic';
+}
