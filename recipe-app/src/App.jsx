@@ -1,4 +1,4 @@
-import IndexRoutes from "./routes/indexRoutes"
+import IndexRoutes from "./routes/IndexRoutes.jsx"
 
 const App = () => {
   return (
