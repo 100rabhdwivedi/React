@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family:'Gilroy' ;
+    src: url('/Gilroy-ExtraBold\ 800.otf');
+}
+@font-face {
+    font-family:'Gilroy-light' ;
+    src: url('/Gilroy-Light\ 300.otf');
+}
+
+.font-one{
+    font-family: 'Gilroy';
+}
+
+.font-two{
+    font-family: 'Gilroy-light';
+}
